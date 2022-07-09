@@ -1,8 +1,8 @@
 import React from "react";
-import AboutMe from "./pages/AboutMe";
+import AboutMe from "./pages/AboutMe/AboutMe";
 import NavTabs from "./NavTabs";
-import Projects from "./pages/Projects";
-import Contact from "./pages/Contact";
+import Projects from "./pages/Projects/Projects";
+import Contact from "./pages/Contact/Contact";
 
 function PortfolioContainer() {
     return (
