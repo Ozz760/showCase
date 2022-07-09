@@ -1,0 +1,14 @@
+.nav {
+  display: block;
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+}
+
+.nav ul li {
+    margin-right: 1rem;
+    margin-top: 2rem;
+}

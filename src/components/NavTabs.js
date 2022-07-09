@@ -1,8 +1,11 @@
 import React from "react";
+import "./NavTabs.css";
+
+
 
 function NavTabs () {
     return (
-        <div className="nav-tabs">
+        <div className="nav">
         <ul>
             <li>
             <a href="#">About</a>
