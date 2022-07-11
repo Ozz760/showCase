@@ -1,12 +1,27 @@
 .nav {
     display: flex;  
     justify-content: right;
+    background-color: #020c1b;
 }
 
 .nav-item {
-    margin-top: 1rem;
+    margin-top: 2rem;
+    margin-left: 0.5rem;
+    margin-right: 2rem; 
+    margin-bottom: 1rem;
 }
 
 .nav-item a {
-    color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.nav-item a:hover, .nav-item a:active {
+    color: darkgrey;
+    border-top: 0.1875rem solid darkgray;
+}
+
+.nav-item a:active, .nav-item a:focus {
+    border-top: 0.1875rem solid darkgray;
+    color: darkgrey;
 }
