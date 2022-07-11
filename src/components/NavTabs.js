@@ -4,19 +4,19 @@ import "./NavTabs.css";
 function NavTabs() {
   return (
     <div className="nav">
-      <ul class="nav justify-content-end">
-        <li class="nav-item">
-          <a class="nav-link active" href="#">
+      <ul className="nav justify-content-end">
+        <li className="nav-item">
+          <a className="nav-link active" href="#">
             About Me
           </a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
+        <li className="nav-item">
+          <a className="nav-link" href="#">
             Projects
           </a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">
+        <li className="nav-item">
+          <a className="nav-link" href="#">
             Contact
           </a>
         </li>
