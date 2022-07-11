@@ -10,4 +10,6 @@
 
 body {
     font-family: 'Roboto Condesed', sans-serif;
+    background-color: var(--dark-navy);
+    color: white;
 }

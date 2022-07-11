@@ -1,6 +1,6 @@
 .header-wrapper {
     position: relative;
-    background: url("../../images/background-image-2.jpeg") no-repeat center center fixed;; 
+    background: url("../../images/background-image-2.jpeg") no-repeat center center fixed; 
     background-size: cover;
     background-position: center;
     height: 90vh;
@@ -11,7 +11,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #fff;
+    color: white;
     font-size: 3rem;
     font-weight: bold;
     text-shadow: 0 0 10px #000;
