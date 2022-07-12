@@ -3,7 +3,7 @@
     background: url("../../images/background-image-2.jpeg") no-repeat center center fixed; 
     background-size: cover;
     background-position: center;
-    height: 90vh;
+    height: 70vh;
 }
 
 .title {
@@ -13,6 +13,17 @@
     transform: translate(-50%, -50%);
     color: white;
     font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 0 0 10px #000;
+}
+
+.name {
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 1.5rem;
     font-weight: bold;
     text-shadow: 0 0 10px #000;
 }

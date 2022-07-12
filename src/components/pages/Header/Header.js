@@ -7,6 +7,9 @@ function Header() {
       <h1 className="title">
         Software Developer
       </h1>
+      <h3 className="name">
+        Oscar Silva
+      </h3>
     </div>
   );
 }
