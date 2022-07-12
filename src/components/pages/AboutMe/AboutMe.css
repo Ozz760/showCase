@@ -1,0 +1,41 @@
+.aboutme-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.first-par {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    grid-gap: 50px;
+    margin-left: 7rem;
+    font-size: larger;
+}
+
+.second-par {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 50px;
+    margin-left: 7rem;
+    font-size: larger;
+}
+
+.list-par {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 50px;
+    margin-left: 7rem;
+    font-size: larger; 
+}
+
+.img0 {
+    width: 13%;
+    height: auto;
+    margin-left: 4rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+    margin: auto 65%;
+    margin-top: -10.5rem; 
+}
