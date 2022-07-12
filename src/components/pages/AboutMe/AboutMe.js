@@ -27,7 +27,7 @@ function AboutMe() {
         <li>CSS3</li>
         <li>React</li>
         <li>NodeJS</li>
-        <li>Express</li>
+        <li>Java</li>
         <li>MongoDB</li>
         <li>SpringBoot</li>
       </ul>
