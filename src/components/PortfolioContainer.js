@@ -10,8 +10,11 @@ function PortfolioContainer() {
       <div>
         <NavTabs />
         <Header />
+        <br />
         <AboutMe />
+        <br />
         <Projects />
+        <br />
         <Contact />
       </div>
     );
