@@ -58,7 +58,7 @@ function Projects() {
 
   return (
     <>
-      <div>
+      <div id="project">
         <h1 className="box-title">Projects</h1>
       </div>
       <div className="map-box">{projects.map(renderProjects)}</div>

@@ -4,7 +4,7 @@ const profile = require("../../images/IMG_1510.jpg");
 
 function AboutMe() {
   return (
-    <div>
+    <div id="aboutme">
       <h1 className="aboutme-title">About Me</h1>
       <p className="first-par">
         Hello, my name is Oscar Silva, and I am a Full Stack Developer and I

@@ -1,14 +1,13 @@
-.nav {
-    display: flex;  
-    justify-content: right;
+#nav {
     background-color: #020c1b;
+    color: white;
 }
 
 .nav-item {
-    margin: 1rem;
+    /* margin: 1rem;
     margin-left: 0.5rem;
     margin-right: 2rem; 
-    margin-bottom: 1rem;
+    margin-bottom: 1rem; */
 }
 
 .nav-item a {
