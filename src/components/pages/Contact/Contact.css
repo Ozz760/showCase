@@ -1,0 +1,28 @@
+.contact-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 10rem;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.email {
+    font-size: 2rem; 
+    margin-left: 37rem;
+}
+
+.email-text {
+    font-size: 1.5rem;
+    margin-left: 31rem;
+}
+
+.phone {
+    font-size: 2rem;
+    margin-left: 77rem;
+    margin-top: -6.5rem;
+}
+
+.phone-number {
+    font-size: 2rem;
+    margin-left: 74rem;
+}

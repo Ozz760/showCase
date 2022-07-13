@@ -21,7 +21,7 @@ function Projects() {
       image: TE,
       title: "Text-Editor-IO",
       description:
-        "This is an application that allows users to code to their browsers and have their code automatically save and reloaded when the user leaves the app.",
+        "This is an application that allows users to code to their browsers and have their code automatically save and reloaded when the user leaves the app. This application also allows installation on devices to give the user the ability to use the app offline.",
       github: "https://github.com/Ozz760/Text-Editor-io",
       link: "https://murmuring-depths-08823.herokuapp.com/",
     },
@@ -29,7 +29,7 @@ function Projects() {
       image: NT,
       title: "Note-Taker",
       description:
-        "This application allows the user to input notes in a given prompt.",
+        "This application allows the user to input notes in a given prompt. The application then stores the input into the express servers and stores the input for later use. Then the user is able to delete any notes as they please.",
       github: "https://github.com/Ozz760/Note-Taker-Express.js",
       link: "https://lit-cliffs-22896.herokuapp.com/",
     },
