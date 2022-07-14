@@ -16,9 +16,9 @@ function AboutMe() {
     <div id="aboutme">
       <h1 className="aboutme-title">About Me</h1>
       <p className="first-par">
-        Hello, my name is Oscar Silva, and I am a Full Stack Developer and I
-        enjoy figuring out how to make something work. My journey for web
-        development started back in December of 2021, when I first took my
+        Hello, my name is Oscar Silva I'm a Full Stack Developer and I
+        enjoy figuring out how to make things work. My journey for web
+        development started back in December of 2021 when I first took my
         coding class, I've been hooked ever since.
       </p>
       <p className="second-par">
