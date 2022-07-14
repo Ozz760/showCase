@@ -1,6 +1,15 @@
 import React from "react";
 import "./AboutMe.css";
-const profile = require("../../images/IMG_1510.jpg");  
+import {
+  FaJs,
+  FaJava,
+  FaHtml5,
+  FaCss3Alt,
+  FaReact,
+  FaNodeJs,
+} from "react-icons/fa";
+import { SiMongodb, SiSpringboot } from "react-icons/si";
+const profile = require("../../images/IMG_1510.jpg");
 
 function AboutMe() {
   return (
@@ -15,22 +24,22 @@ function AboutMe() {
       <p className="second-par">
         Today I am sharpening my skills as a Full Stack Developer, and working
         on some awesome projects that I proud of. On the side I am teaching
-        myself Java and frameworks like SpringBoot. 
+        myself Java and frameworks like SpringBoot.
       </p>
       <img src={profile} alt="Picture of Oscar Silva" className="img0" />
       <p className="list-par">
         Here are some technologies I am currently working with:
       </p>
-      <ul className="list-skills">
-        <li>JavaScript</li>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>React</li>
-        <li>NodeJS</li>
-        <li>Java</li>
-        <li>MongoDB</li>
-        <li>SpringBoot</li>
-      </ul>
+      <div className="icons-skills">
+        <FaHtml5 />
+        <FaCss3Alt />
+        <FaJs />
+        <FaReact />
+        <FaNodeJs />
+        <SiMongodb />
+        <FaJava  />
+        <SiSpringboot />
+      </div>
     </div>
   );
 }
