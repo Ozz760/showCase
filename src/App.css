@@ -13,3 +13,31 @@ body {
     background-color: var(--dark-navy);
     color: white;
 }
+
+/* Mac Laptops */
+@media only screen and (max-width: 1440px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1199px) {
+    /*============= HEADER ============ */
+    .header-wrapper {
+
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 991px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 479px) {
+
+}
