@@ -16,38 +16,12 @@ body {
 
 /* Mac Laptops */
 @media only screen and (max-width: 1440px) {
-    /*=========== Contacts ============== */
-    .email {
-        font-size: 2rem; 
-        margin-left: 25rem;
-    }
-    
-    .email-text {
-        font-size: 2rem;
-        margin-left: 15rem;
-        margin-top: 1rem;
-    }
-    
-    .phone {
-        font-size: 2rem;
-        margin-left: 60rem;
-        margin-top: -7.5rem;
-    }
-    
-    .phone-number {
-        font-size: 2rem;
-        margin-left: 57rem;
-        margin-top: 1rem;
-    }
 
 }
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width: 1199px) {
-    /*============= HEADER ============ */
-    .header-wrapper {
-
-    }
+    
 }
 
 /* Medium Devices, Desktops */

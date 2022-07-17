@@ -26,3 +26,28 @@
     margin-top: 4rem;
 
 }
+
+/* Mac Laptops */
+@media only screen and (max-width: 1440px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1199px) {
+    
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 991px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 767px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 479px) {
+
+}
