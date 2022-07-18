@@ -60,7 +60,23 @@
 
 /* Large Devices, Wide Screens */
 @media only screen and (max-width: 1199px) {
+    .email {
+        font-size: 2rem; 
+        margin-left: 18rem;
+    }
     
+    .email-text {
+        margin-left: 9rem;
+    }
+
+    .phone {
+        margin-left: 54rem; 
+    }
+
+    .phone-number {
+        margin-left: 50rem;
+    }
+
 }
 
 /* Medium Devices, Desktops */
