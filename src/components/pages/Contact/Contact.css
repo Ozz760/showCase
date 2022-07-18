@@ -81,15 +81,69 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 991px) {
+    .email {
+        margin-left: 10rem;
+        font-size: 1.8rem;
+    }
+
+    .email-text {
+        margin-left: 2.5rem;
+        font-size: 1.8rem;
+    }
+
+    .phone {
+        margin-left: 46rem; 
+        font-size: 1.8rem;
+    }
+
+    .phone-number {
+        margin-left: 43rem;
+        font-size: 1.8rem;
+    }
 
 }
 
 /* Small Devices, Tablets */
 @media only screen and (max-width: 767px) {
+    .email {
+        font-size: 1.5rem;
+        margin-top: -3rem;
+        margin-left: 22rem;
+    }
 
+    .email-text {
+        font-size: 1.5rem;
+        margin-left: 14.7rem;
+    }
+
+    .phone {
+        font-size: 1.5rem;
+        margin-top: 2rem;
+        margin-left: 22rem;
+    }
+
+    .phone-number {
+        font-size: 1.5rem;
+        margin-left: 19rem;
+    }
 }
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 479px) {
+    .email {
+        margin-left: 13rem;
+    }
+
+    .email-text {
+        margin-left: 6rem;
+    }
+
+    .phone {
+        margin-left: 13rem;
+    }
+
+    .phone-number {
+        margin-left: 10rem;
+    }
 
 }
